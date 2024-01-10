@@ -4,43 +4,51 @@
 
 
 h1 {
-    color: red
+    color: red;
 }
 
 h2 {
-    color: green    
+    color: green;    
 }
 
 h3 {
-    color: blue
+    color: blue;
 }
 
 button {
-    color: green
+    color: green;
+}
+
+.a {
+   list-style-type: disc;
 }
 
 .b {
-    list-style-type: circle
+    list-style-type: circle;
 }
 
 .c {
-    list-style-type: square
+    list-style-type: square;
+}
+
+.d {
+    list-style-type: none;
 }
 
 .pl1 {
-    list-style-type: lower-alpha
+    list-style-type: lower-alpha;
 }
 
 .pl2 {
-    list-style-type: upper-alpha
+    list-style-type: upper-alpha;
 }
 
 .pl3 {
-    list-style-type: lower-roman
+    list-style-type: lower-roman;
 }
 
 .pl4 {
-    list-style-type: upper-roman
+    list-style-type: upper-roman;
 }
 
 .pl5 {
