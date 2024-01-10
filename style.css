@@ -18,3 +18,31 @@ h3 {
 button {
     color: green
 }
+
+.b {
+    list-style-type: circle
+}
+
+.c {
+    list-style-type: square
+}
+
+.pl1 {
+    list-style-type: lower-alpha
+}
+
+.pl2 {
+    list-style-type: upper-alpha
+}
+
+.pl3 {
+    list-style-type: lower-roman
+}
+
+.pl4 {
+    list-style-type: upper-roman
+}
+
+.pl5 {
+    list-style-type: lower-greek;
+}
